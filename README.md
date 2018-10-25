@@ -1,2 +1,5 @@
-# php_comentarios
-Estudo de PHP - Comentários
+# PHP Mensagens
+
+Estudo de PHP + MySQL.
+
+Inserindo dados na base criando um sistema de comentários simples.
